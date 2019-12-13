@@ -1,0 +1,10 @@
+app {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(255, 117, 54);
+}
+p {
+  color: whitesmoke;
+}

@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: darkslategrey;
+}
+h1 {
+  color: whitesmoke;
+}
+p {
+  color: whitesmoke;
+}

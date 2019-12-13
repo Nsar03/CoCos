@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: darkgray;
+}
+h1 {
+  color: rgb(0, 154, 255);
+}
+li1 {
+  color: white;
+}
+li2 {
+  color: rgb(0, 154, 255);
+}
+li3 {
+  color: rgb(0, 154, 255);
+}
